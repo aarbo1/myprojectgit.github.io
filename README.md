@@ -7,3 +7,5 @@ This tutorial focuses mainly on Git and using Github as its remote.
 This repository is built step by step in the tutorial.# myprojectgit
 
 It now includes steps for Github
+
+How to push and pull requests back and forth between Github and this project!
